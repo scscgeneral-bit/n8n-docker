@@ -1,0 +1,7 @@
+{
+  "name": "n8n-docker",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "n8n start"
+  }
+}
